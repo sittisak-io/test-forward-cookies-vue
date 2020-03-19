@@ -5,9 +5,10 @@
   "author": "Sittisak",
   "private": true,
   "scripts": {
+    "serve": "nuxt",
     "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "start": "nuxt",
     "generate": "nuxt generate"
   },
   "dependencies": {
